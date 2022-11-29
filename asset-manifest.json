@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yogasetiawanku/venommusic/static/css/main.822bcc26.css",
+    "main.js": "/yogasetiawanku/venommusic/static/js/main.76b7f61f.js",
+    "static/js/787.776014a2.chunk.js": "/yogasetiawanku/venommusic/static/js/787.776014a2.chunk.js",
+    "static/media/pp.png": "/yogasetiawanku/venommusic/static/media/pp.3bf72683dce899dc8769.png",
+    "static/media/bgmusic.jpg": "/yogasetiawanku/venommusic/static/media/bgmusic.7b2276eb9522868054f6.jpg",
+    "index.html": "/yogasetiawanku/venommusic/index.html",
+    "main.822bcc26.css.map": "/yogasetiawanku/venommusic/static/css/main.822bcc26.css.map",
+    "main.76b7f61f.js.map": "/yogasetiawanku/venommusic/static/js/main.76b7f61f.js.map",
+    "787.776014a2.chunk.js.map": "/yogasetiawanku/venommusic/static/js/787.776014a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822bcc26.css",
+    "static/js/main.76b7f61f.js"
+  ]
+}
